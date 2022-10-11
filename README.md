@@ -1,4 +1,12 @@
-### fork
+### 
+I'm currently working on something.
+I'm currently learning something.
+I'm looking to collaborate on something.
+I'm looking for help with nothing.
+Ask me about nothing.
+Don't reach me.
+Pronouns: something.
+Fun fact: something.
 
 <!--
 **SiritheFork/SiritheFork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
